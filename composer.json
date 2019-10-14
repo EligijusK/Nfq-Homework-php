@@ -8,10 +8,18 @@
       "email": "e.kiudys@gmail.com"
     }
   ],
+
+  "config": {
+    "platform": {
+      "php": "7.2.11"
+    }
+  },
+
   "require": {
     "jakub-onderka/php-console-highlighter": "0.4"
   },
   "autoload": {
-    "psr-4": {"Nfq\\Akademija\\": "src/"}
+
+    "psr-4": { "Nfq\\Akademija\\": "includes/" }
   }
 }

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0dc1a4dcc6a1349652ded1219e7071cd",
+    "content-hash": "64bdb81949dd4dccfd67e9c8dc789791",
     "packages": [
         {
             "name": "jakub-onderka/php-console-color",
@@ -102,5 +102,8 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "platform-overrides": {
+        "php": "7.2.11"
+    }
 }

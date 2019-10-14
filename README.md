@@ -4,6 +4,13 @@ Atliko Eligijus Kiudys
 
 # Paleidimas
 
+Patikrinkite ar naudojate PHP 7.0 verisją arba naujesnę.
+
+komandinėje eilutėje atsivertus projektą ir suinstaliuoti projektą su komanda "composer install'.
+
+Ką daryti jeigu išmeta erora: komandinėje eilutėje atsiversti projektą ir paleisti šitą komandą: "composer dump-autoload -o".
+
+
 Programą paleidau per konsole su "php index.php" konsoles komanda.
 
 # Paaiškinimas

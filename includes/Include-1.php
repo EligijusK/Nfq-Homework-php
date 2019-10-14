@@ -9,7 +9,7 @@ class HomeWorkCalculations
         $sum = 0;
         foreach ($numbers as $num)
         {
-            $sum =+ $num;
+            $sum += $num;
         }
         return $sum;
     }
