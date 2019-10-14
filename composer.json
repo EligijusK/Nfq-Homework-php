@@ -1,0 +1,17 @@
+{
+  "name": "eligijus/htdocs",
+  "description": "nfq namu darbai",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Eligijus Kiudys",
+      "email": "e.kiudys@gmail.com"
+    }
+  ],
+  "require": {
+    "jakub-onderka/php-console-highlighter": "0.4"
+  },
+  "autoload": {
+    "psr-4": {"Nfq\\Akademija\\": "src/"}
+  }
+}
